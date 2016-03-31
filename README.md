@@ -5,7 +5,7 @@ We need it to live, breath and function. This colourless, odourless, tasteless g
 
 Most molecules in living organisms –carbohydrates, fats, proteins–contain OxyGen. They release energy in your body.
 
-![OxyGen preview] (OxyGen/preview.jpg)
+![OxyGen preview] (preview.jpg)
 #### OxyGen will breath new life to your Koken site!
 
 OxyGen is a fully responsive theme for your Koken site, ensuring that you give your visitors the best experience of your content.
