@@ -16,7 +16,7 @@ OxyGen is built for both artist and writers alike giving you the most flexibilit
 * Full documentation can be found here: [oxygen.kokensupport.com](http://oxygen.kokensupport.com/)
 
 #### License
-* [LICENSE](OxyGen/LICENSE)
+* [LICENSE](LICENSE)
 
 #### Support
 * Community Support for Koken and OxyGen can be found here: [kokensupport.com](http://kokensupport.com/)
