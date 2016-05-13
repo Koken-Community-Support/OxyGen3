@@ -14,7 +14,7 @@ OxyGen is built for both artist and writers alike giving you the most flexibilit
 
 #### Documentation & Change log
 * Full documentation can be found here: [oxygen.kokensupport.com](http://oxygen.kokensupport.com/)
-* Latest version: 3.0.7
+* Latest version: 3.0.8
 
 #### License
 * [LICENSE](LICENSE)
