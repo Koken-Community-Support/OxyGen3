@@ -52,4 +52,4 @@ Full credit goes to John (@jhne) Elgenstierna for ideas and initial design of no
 * German: [Gerd Rösser](http://portfolio.gerdroesser.de)
 * Polish: [Marek Durajczyk](http://www.md.photopolska.pl)
 * Russian: [Anna Ozeritskaya](http://plus.google.com/u/0/114213058288327048316)
-* Hungarian: Béla Nagy
+* Hungarian: [Béla Nagy](http://belanagy.hu/)
