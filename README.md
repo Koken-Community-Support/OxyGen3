@@ -13,16 +13,16 @@ OxyGen is a fully responsive theme for your Koken site, ensuring that you give y
 OxyGen is built for both artist and writers alike giving you the most flexibility so you can concentrate on the asset that is important: your content.
 
 #### Documentation & Change log
-* Full documentation can be found here: [oxygen.kokensupport.com](http://oxygen.kokensupport.com/)
+* Full documentation can be found here: [oxygen.kokensupport.com](https://oxygen.kokensupport.com/)
 * Latest version: 3.0.9
 
 #### License
 * [LICENSE](LICENSE)
 
 #### Support
-* Community Support for Koken and OxyGen can be found here: [kokensupport.com](http://kokensupport.com/)
-* Full changelog for OxyGen: [oxygen.kokensupport.com](http://oxygen.kokensupport.com)
-* Support requests for OxyGen is handled here: [help.kokensupport.com](http://help.kokensupport.com/) or via the [Koken Community Support forum](http://kokensupport.com/)
+* Community Support for Koken and OxyGen can be found here: [kokensupport.com](https://kokensupport.com/)
+* Full changelog for OxyGen: [oxygen.kokensupport.com](https://oxygen.kokensupport.com)
+* Support requests for OxyGen is handled here: [help.kokensupport.com](https://help.kokensupport.com/) or via the [Koken Community Support forum](https://kokensupport.com/)
 
 ## Credits
 #### THE ORIGINAL NORMA
